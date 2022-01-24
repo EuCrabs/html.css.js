@@ -1,2 +1,2 @@
 # html.css.js
- test
+ This is my first project where I used HTML, CSS and JS knowledges.
